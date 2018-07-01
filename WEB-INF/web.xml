@@ -1,0 +1,13 @@
+<web-app>
+
+<servlet>
+<servlet-name>one</servlet-name>
+<servlet-class>HelloWorld</servlet-class>
+</servlet>
+
+<servlet-mapping>
+<servlet-name>one</servlet-name>
+<url-pattern>/APPLET</url-pattern>
+</servlet-mapping>
+
+</web-app>
